@@ -1,0 +1,10 @@
+1. First install dist/Tesseract OCR  (make sure path C:\Program Files\Tesseract-OCR\tesseract.exe)
+2. GENERATE GENAI API KEY or use default
+3. Run the dist/AskDesk.exe
+4. Set API KEY (if you want otherwise leave as it)
+5. Set Language Python/Java/Cpp 
+6. Start the server 
+7. ctrl+q for coding , ctrl+m for mcq ans, ctrl+v to paste code , 
+    mcq answer will be display on http://192.168.125.61:5000 or any other ip display on App
+
+Note: Window size must be atleast 125% for better scanning of question
