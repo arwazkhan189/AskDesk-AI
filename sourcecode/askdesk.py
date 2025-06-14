@@ -14,7 +14,7 @@ import socket
 from flask import Flask, request, jsonify
 
 # Constants
-GENAI_API_KEY = 'AIzaSyCE_xx-9VgX6YmKh1kBt2m8uZ51BC_ETFY'
+GENAI_API_KEY = 'ADD_YOUR_API_KEY_HERE'
 DEFAULT_TESS_PATH = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 FLASK_PORT = 5000
 answers = []
