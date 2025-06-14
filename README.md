@@ -7,4 +7,6 @@ AskDesk AI is a lightweight desktop assistant that captures on-screen questions 
 
 The app uses OCR to read screen text, Gemini AI to answer, and a built-in Flask server to display live Q&A in a browser. It also auto-copies the answer to your clipboard for quick use.
 
-<img src='' alt='SS'>
+  <img src='https://github.com/arwazkhan189/AskDesk-AI/blob/main/AskDesk-App.png' alt='AskDesk AI'>
+
+
