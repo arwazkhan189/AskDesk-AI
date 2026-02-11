@@ -39,7 +39,7 @@ openai==0.28.0
 opencv-python==4.11.0.86
 packaging==25.0
 pefile==2023.2.7
-pillow==11.2.1
+pillow==12.1.1
 propcache==0.3.2
 proto-plus==1.26.1
 protobuf==5.29.5
